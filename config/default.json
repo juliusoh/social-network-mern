@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://classed:12345@cluster0.zmmpk.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://classed:12345@cluster0.zmmpk.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
