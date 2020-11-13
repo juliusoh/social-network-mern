@@ -52,7 +52,7 @@ async (req, res) => {
       const salt = await bcrypt.genSalt(10);
 
       //hash password
-      user.passsword = await bcrypt.hash(req.body.password, salt);
+      user.password = await bcrypt.hash(req.body.password, salt);
       // save user in database
       await user.save();
     // Return jsonwebtoken
