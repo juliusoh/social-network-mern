@@ -45,11 +45,11 @@ export default function (state = initialState, action) {
         loading: false,
       };
     case POST_ERROR:
-      return {
-        ...state,
-        posts: payload,
-        loading: false,
-      };
+        return {
+          ...state,
+          error: payload,
+          loading: false,
+        };
     case UPDATE_LIKES:
       return {
         ...state,
