@@ -22,6 +22,7 @@ Users can register, login, sign out, create a post, read a post, see list of use
 ## Getting Started
 #### 1. Clone the repository and navigate to the directory
 ```shell
+git clone https://github.com/juliusoh/social-network-mern.git
 ```
 
 #### 2. Install all dependencies 
