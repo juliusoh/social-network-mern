@@ -3,7 +3,7 @@ A social network application that is created by a MERN stack
 
 
 ## Live Demo
-[Link to Live Site](https://lets-connect.juliusoh.com)
+[Link to Live Site](https://lets-social.herokuapp.com/)
 
 ## Features
 Users can register, login, sign out, create a post, read a post, see list of users, edit profile, create profile, add a comment, vote down or thumbs up.
