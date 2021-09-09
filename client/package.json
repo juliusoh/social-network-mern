@@ -18,7 +18,8 @@
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
     "uuid": "^8.3.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "webpack-dev-server": "^3.11.1"
   },
   "scripts": {
     "start": "react-scripts start",
