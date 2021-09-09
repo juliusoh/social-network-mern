@@ -4,7 +4,7 @@ const db = config.get('mongoURI');
 
 const connectDB = async () => {
   try {
-    await mongoose.connect('mongodb+srv://Portfolio:GetJob123@cluster0.92nso.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', {
+    await mongoose.connect(db, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
       useCreateIndex: true,
