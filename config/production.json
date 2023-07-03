@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://Portfolio:GetJob123@cluster0.92nso.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "4a0195bc96f0671399f5",
-  "githubSecret": "f8a354b7285b2c7ec64474b61046b5e21e2bfc3e"
-}
